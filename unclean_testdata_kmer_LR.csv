@@ -1,5 +1,5 @@
 						AUPR	AUROC	   ACC
-H1- H3K4me3	 				 		 		
+H1- H3K4me3		0.945	0.956	0.806	 				 		 		
 H1-H3K9ac		 		
 H1-H3K27ac		 		
 H1-H3K27me3	 		
